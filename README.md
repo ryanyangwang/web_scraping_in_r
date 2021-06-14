@@ -1,4 +1,4 @@
-# web_scrpping_in_r
+# Web scrpping in R
 Some demos about web scraping in R (via *rvest* and *Rselenium*)
 
 * MedHelp

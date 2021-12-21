@@ -3,3 +3,4 @@ Some demos about web scraping in R (via *rvest* and *Rselenium*)
 
 * MedHelp
 * Quora
+* ProPublica
